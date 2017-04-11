@@ -38,3 +38,7 @@ Thumbs.db
 
 # Project Specific
 Project1/.ipynb_checkpoints/*
+Project2/.ipynb_checkpoints/*
+Project3/.ipynb_checkpoints/*
+Project3/preprocess.p
+Project3/__pycache__
